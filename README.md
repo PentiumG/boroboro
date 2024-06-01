@@ -24,7 +24,7 @@
 5. **게임화 요소 도입**
     - 포인트 시스템과 연계한 게임화 요소
     - 랭킹 시스템 도입으로 경쟁 유도
-    - 다양한 이벤트와 도전 과제 제공
+    - 다양한 보상 제공
 6. **분리수거 시스템**
     - 분리수거 가능한 쓰레기 별도 등록
     - 재활용품 등록 시 포인트 지급
@@ -94,13 +94,15 @@
 이 어플은 지역 주민이 자신이 사는 지역사회를 깨끗하게 유지하고, 지속 가능한 발전을 촉진하는데 기여할 수 있는 중요한 도구가 될 것입니다. 올바른 쓰레기 처리를 통해 청결하고 좋은 지역사회를 유지하는 것은 모두의 책임입니다. 이를 위한 혁신적인 방법을 도입하여, 더 나은 미래를 만들어 나갈 수 있을 것입니다.
 
 
-
+### **개발 관련**
 개발환경 : 유니티 - 안드로이드 및 IOS에서 가동할 수 있도록 통합환경을 선택
-사용한 API : 웬만한 기능들은 UNITY 기본 기능을 사용. 지도는 국토교통부 VWORLD API사용. 데이터베이스 관리는 FIREBASE 사용. QR은 유니티 플러그인인 
+
+사용한 API : 웬만한 기능들은 UNITY 기본 기능을 사용. 지도는 국토교통부 VWORLD API사용. 데이터베이스 관리는 FIREBASE 사용. QR은 유니티 플러그인인 ZXING을 사용하였습니다. 
 
 
-상점
-https://drive.google.com/file/d/17-H2e8qNpM65ib29vUZ0xEL6Z_FoZyJG/view
+### **개발 코드**
+상점, 마이페이지, 장바구니(보상 인벤토리) **보상은 기프티콘 같은 것입니다.
+https://drive.google.com/file/d/177VWIIPQpzwgBLsf4W3DcJhN_h-I4tvb/view?usp=drive_link
 
 회원가입 , 로그인
 https://drive.google.com/file/d/1BsBYkEPyBgkOMy04SaPHmos3fBDRxCvW/view?pli=1
@@ -109,4 +111,5 @@ https://drive.google.com/file/d/1BsBYkEPyBgkOMy04SaPHmos3fBDRxCvW/view?pli=1
 http://naver.me/5K5QVG7v
 
 랭킹
+https://drive.google.com/file/d/17-H2e8qNpM65ib29vUZ0xEL6Z_FoZyJG/view
 
