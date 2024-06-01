@@ -32,23 +32,6 @@
 
 ---
 
-### **브레인스토밍 포인트**
-
-1. **관리의 발전 목표**
-    - 개인의 편의뿐만 아니라 지역 청결 유지 목표
-2. **포인트 활용**
-    - 포인트로 보상 제공 (예: 도서 대출, 농사 게임 보상 등)
-    - 포켓몬고와 같은 재미 요소 도입
-3. **생활 데이터 활용**
-    - 쓰레기 버리는 빈도 체크 및 생활 데이터 수집
-    - 데이터 기반 정책 및 관리 최적화
-4. **문제점 및 해결책**
-    - 쓰레기를 버리지 않아도 버린 걸로 인식될 가능성
-    - 쓰레기통에 NFC 추가 시 비용 문제
-    - 분리수거 항목별 안내 필요
-
----
-
 ### **기술 구현**
 
 1. **지도 및 데이터베이스**
@@ -100,7 +83,12 @@
 
 
 
-[https://drive.google.com/file/d/1BsBYkEPyBgkOMy04SaPHmos3fBDRxCvW/view?pli=1](https://drive.google.com/file/d/17-H2e8qNpM65ib29vUZ0xEL6Z_FoZyJG/view)
+상점
+https://drive.google.com/file/d/17-H2e8qNpM65ib29vUZ0xEL6Z_FoZyJG/view
 
-
+회원가입 , 로그인
 https://drive.google.com/file/d/1BsBYkEPyBgkOMy04SaPHmos3fBDRxCvW/view?pli=1
+
+지도 , QR
+
+랭킹
